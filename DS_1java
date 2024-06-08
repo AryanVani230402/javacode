@@ -1,0 +1,30 @@
+//public class bit_anipulation_1 {
+//}
+//
+//if(a & 1== 0)
+//        {
+//            a is odd
+//        }
+//
+//if(a & 0 == 1)
+//        {
+//            a is even
+//        }
+//
+//right shift (>>) divides the no. by 2
+//left shift (<<) multiplies the no. by 2
+
+//XOR checks if two bits are same or not of a integer
+//
+//to swipe 2 numbers without variables perform these  XOR operations
+//        {
+//            a= 5 && b= 7
+//        then to swipe the no. perform
+//
+//        1)a=a^b
+//        2)b=a^b
+//        3)a=a^b
+//        }java.util.EnumMap
+
+
+mask===> binary string with specific bit as 1.
